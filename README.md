@@ -10,7 +10,7 @@ allowing visitors to learn more about me and view my work.
 - **Responsive Design**: Works on various devices and screen sizes.
 - **Interactive Elements**: Includes animations, transitions, and hover effects.
 - **Dark/Light Mode Toggle**: Allows users to switch between light and dark themes.
-- 
+  
 ## Technologies Used
 - **HTML**: For the structure of the website.
 - **CSS**: For styling, animations, and responsive design.
